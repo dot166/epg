@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="freeview.co.uk" site_id="64257#4416" lang="en" xmltv_id="">BBC Red Button</channel>
-  <channel site="freeview.co.uk" site_id="64257#5632" lang="en" xmltv_id="">BBC R5L</channel>
-  <channel site="freeview.co.uk" site_id="64257#5696" lang="en" xmltv_id="">BBC 5SX</channel>
-  <channel site="freeview.co.uk" site_id="64257#5760" lang="en" xmltv_id="">BBC 6 Music</channel>
-  <channel site="freeview.co.uk" site_id="64257#5824" lang="en" xmltv_id="">BBC Radio 4 Ex</channel>
-  <channel site="freeview.co.uk" site_id="64257#5888" lang="en" xmltv_id="">BBC R1X</channel>
-  <channel site="freeview.co.uk" site_id="64257#5952" lang="en" xmltv_id="">BBC Asian Net.</channel>
-  <channel site="freeview.co.uk" site_id="64257#6016" lang="en" xmltv_id="">BBC World Sv.</channel>
-  <channel site="freeview.co.uk" site_id="64257#6148" lang="en" xmltv_id="">BBC Radio London</channel>
-  <channel site="freeview.co.uk" site_id="64257#6157" lang="en" xmltv_id="">BBC Three Counties</channel>
-  <channel site="freeview.co.uk" site_id="64257#6275" lang="en" xmltv_id="">BBC Berkshire</channel>
-  <channel site="freeview.co.uk" site_id="64257#6279" lang="en" xmltv_id="">BBC Essex</channel>
-  <channel site="freeview.co.uk" site_id="64257#6284" lang="en" xmltv_id="">BBC Surrey</channel>
-  <channel site="freeview.co.uk" site_id="64257#6720" lang="en" xmltv_id="">BBC Radio 1</channel>
-  <channel site="freeview.co.uk" site_id="64257#6784" lang="en" xmltv_id="">BBC Radio 2</channel>
-  <channel site="freeview.co.uk" site_id="64257#6848" lang="en" xmltv_id="">BBC Radio 3</channel>
-  <channel site="freeview.co.uk" site_id="64257#6912" lang="en" xmltv_id="">BBC Radio 4</channel>
   <channel site="freeview.co.uk" site_id="64257#15016" lang="en" xmltv_id="">Sonlife</channel>
   <channel site="freeview.co.uk" site_id="64257#15064" lang="en" xmltv_id="">On Demand 365</channel>
   <channel site="freeview.co.uk" site_id="64257#15448" lang="en" xmltv_id="">Channelbox</channel>
@@ -34,18 +18,11 @@
   <channel site="freeview.co.uk" site_id="64257#16376" lang="en" xmltv_id="">Nosey</channel>
   <channel site="freeview.co.uk" site_id="64257#16394" lang="en" xmltv_id="">Shop On TV</channel>
   <channel site="freeview.co.uk" site_id="64257#16400" lang="en" xmltv_id="">Purpose Media</channel>
-  <channel site="freeview.co.uk" site_id="64257#22624" lang="en" xmltv_id="">RNIB Connect</channel>
-  <channel site="freeview.co.uk" site_id="64257#22656" lang="en" xmltv_id="">Heart</channel>
-  <channel site="freeview.co.uk" site_id="64257#22688" lang="en" xmltv_id="">Capital</channel>
-  <channel site="freeview.co.uk" site_id="64257#22848" lang="en" xmltv_id="">Classic FM</channel>
-  <channel site="freeview.co.uk" site_id="64257#22880" lang="en" xmltv_id="">LBC</channel>
   <channel site="freeview.co.uk" site_id="64257#23184" lang="en" xmltv_id="">SonLife</channel>
   <channel site="freeview.co.uk" site_id="64257#23680" lang="en" xmltv_id="">Must Have Ideas</channel>
-  <channel site="freeview.co.uk" site_id="64257#26368" lang="en" xmltv_id="">Smooth Radio</channel>
   <channel site="freeview.co.uk" site_id="64257#27232" lang="en" xmltv_id="">Hobbycraft TV</channel>
   <channel site="freeview.co.uk" site_id="64257#27744" lang="en" xmltv_id="">Rewind TV</channel>
   <channel site="freeview.co.uk" site_id="64257#27808" lang="en" xmltv_id="">Together TV IP</channel>
-  <channel site="freeview.co.uk" site_id="64257#28160" lang="en" xmltv_id="">Premier Radio</channel>
   <channel site="freeview.co.uk" site_id="64257#28352" lang="en" xmltv_id="">Great! Player</channel>
   <channel site="freeview.co.uk" site_id="64257#28384" lang="en" xmltv_id="">Great! Romance Mix</channel>
   <channel site="freeview.co.uk" site_id="64257#33664" lang="en" xmltv_id="">MBC Group</channel>
@@ -56,61 +33,6 @@
   <channel site="freeview.co.uk" site_id="64257#34432" lang="en" xmltv_id="">Cartoon Classics</channel>
   <channel site="freeview.co.uk" site_id="64257#34496" lang="en" xmltv_id="">wedotv Movies UK</channel>
   <channel site="freeview.co.uk" site_id="64257#34560" lang="en" xmltv_id="">Nolly Africa</channel>
-  <channel site="freeview.co.uk" site_id="64265#6147" lang="en" xmltv_id="">BBC Solent</channel>
-  <channel site="freeview.co.uk" site_id="64265#6211" lang="en" xmltv_id="">BBC Solent Dorset</channel>
-  <channel site="freeview.co.uk" site_id="64265#6220" lang="en" xmltv_id="">BBC Sussex</channel>
-  <channel site="freeview.co.uk" site_id="64265#6273" lang="en" xmltv_id="">BBC Wiltshire</channel>
-  <channel site="freeview.co.uk" site_id="64269#6156" lang="en" xmltv_id="">BBC Kent</channel>
-  <channel site="freeview.co.uk" site_id="64297#6155" lang="en" xmltv_id="">BBC Oxford</channel>
-  <channel site="freeview.co.uk" site_id="64297#6209" lang="en" xmltv_id="">BBC Gloucestershire</channel>
-  <channel site="freeview.co.uk" site_id="64300#6151" lang="en" xmltv_id="">BBC Norfolk</channel>
-  <channel site="freeview.co.uk" site_id="64300#6221" lang="en" xmltv_id="">BBC Northampton</channel>
-  <channel site="freeview.co.uk" site_id="64300#6285" lang="en" xmltv_id="">BBC Cambridge</channel>
-  <channel site="freeview.co.uk" site_id="64304#6215" lang="en" xmltv_id="">BBC Suffolk</channel>
-  <channel site="freeview.co.uk" site_id="64320#6145" lang="en" xmltv_id="">BBC Bristol</channel>
-  <channel site="freeview.co.uk" site_id="64320#6337" lang="en" xmltv_id="">BBC Somerset</channel>
-  <channel site="freeview.co.uk" site_id="64328#6146" lang="en" xmltv_id="">BBC Cornwall</channel>
-  <channel site="freeview.co.uk" site_id="64328#6210" lang="en" xmltv_id="">BBC Devon</channel>
-  <channel site="freeview.co.uk" site_id="64334#6158" lang="en" xmltv_id="">BBC Guernsey</channel>
-  <channel site="freeview.co.uk" site_id="64334#6222" lang="en" xmltv_id="">BBC Jersey</channel>
-  <channel site="freeview.co.uk" site_id="64336#6149" lang="en" xmltv_id="">BBC WM</channel>
-  <channel site="freeview.co.uk" site_id="64336#6213" lang="en" xmltv_id="">BBC Stoke</channel>
-  <channel site="freeview.co.uk" site_id="64336#6214" lang="en" xmltv_id="">BBC Derby</channel>
-  <channel site="freeview.co.uk" site_id="64336#6277" lang="en" xmltv_id="">BBC H&amp;W</channel>
-  <channel site="freeview.co.uk" site_id="64336#6341" lang="en" xmltv_id="">BBC Shropshire</channel>
-  <channel site="freeview.co.uk" site_id="64336#6405" lang="en" xmltv_id="">BBC CWR</channel>
-  <channel site="freeview.co.uk" site_id="64342#6150" lang="en" xmltv_id="">BBC Nottingham</channel>
-  <channel site="freeview.co.uk" site_id="64342#6159" lang="en" xmltv_id="">BBC Lincolnshire</channel>
-  <channel site="freeview.co.uk" site_id="64342#6278" lang="en" xmltv_id="">BBC Leicester</channel>
-  <channel site="freeview.co.uk" site_id="64352#6218" lang="en" xmltv_id="">BBC Sheffield</channel>
-  <channel site="freeview.co.uk" site_id="64352#6223" lang="en" xmltv_id="">BBC Humberside</channel>
-  <channel site="freeview.co.uk" site_id="64357#6154" lang="en" xmltv_id="">BBC Leeds</channel>
-  <channel site="freeview.co.uk" site_id="64357#6282" lang="en" xmltv_id="">BBC York</channel>
-  <channel site="freeview.co.uk" site_id="64368#6153" lang="en" xmltv_id="">BBC Newcastle</channel>
-  <channel site="freeview.co.uk" site_id="64368#6217" lang="en" xmltv_id="">BBC Cumbria</channel>
-  <channel site="freeview.co.uk" site_id="64368#6281" lang="en" xmltv_id="">BBC Tees</channel>
-  <channel site="freeview.co.uk" site_id="64376#6152" lang="en" xmltv_id="">BBC Manchester</channel>
-  <channel site="freeview.co.uk" site_id="64376#6216" lang="en" xmltv_id="">BBC Lancashire</channel>
-  <channel site="freeview.co.uk" site_id="64376#6280" lang="en" xmltv_id="">BBC Merseyside</channel>
-  <channel site="freeview.co.uk" site_id="64392#5692" lang="en" xmltv_id="">BBC R5L</channel>
-  <channel site="freeview.co.uk" site_id="64392#5756" lang="en" xmltv_id="">BBC 5SX</channel>
-  <channel site="freeview.co.uk" site_id="64392#5820" lang="en" xmltv_id="">BBC 6 Music</channel>
-  <channel site="freeview.co.uk" site_id="64392#5884" lang="en" xmltv_id="">BBC Radio 4 Ex</channel>
-  <channel site="freeview.co.uk" site_id="64392#5948" lang="en" xmltv_id="">BBC R1X</channel>
-  <channel site="freeview.co.uk" site_id="64392#6012" lang="en" xmltv_id="">BBC Asian Net.</channel>
-  <channel site="freeview.co.uk" site_id="64392#6076" lang="en" xmltv_id="">BBC World Sv.</channel>
-  <channel site="freeview.co.uk" site_id="64392#6204" lang="en" xmltv_id="">BBC R Scotland</channel>
-  <channel site="freeview.co.uk" site_id="64392#6268" lang="en" xmltv_id="">BBC R n Gaidheal</channel>
-  <channel site="freeview.co.uk" site_id="64392#6780" lang="en" xmltv_id="">BBC Radio 1</channel>
-  <channel site="freeview.co.uk" site_id="64392#6844" lang="en" xmltv_id="">BBC Radio 2</channel>
-  <channel site="freeview.co.uk" site_id="64392#6908" lang="en" xmltv_id="">BBC Radio 3</channel>
-  <channel site="freeview.co.uk" site_id="64392#6972" lang="en" xmltv_id="">BBC Radio 4</channel>
-  <channel site="freeview.co.uk" site_id="64416#6462" lang="en" xmltv_id="">BBC Radio Wales</channel>
-  <channel site="freeview.co.uk" site_id="64416#6526" lang="en" xmltv_id="">BBC Radio Cymru</channel>
-  <channel site="freeview.co.uk" site_id="64416#6590" lang="en" xmltv_id="">BBC Radio Cymru 2</channel>
-  <channel site="freeview.co.uk" site_id="64424#6333" lang="en" xmltv_id="">BBC Radio Ulster</channel>
-  <channel site="freeview.co.uk" site_id="64424#6397" lang="en" xmltv_id="">BBC Radio Foyle</channel>
-  <channel site="freeview.co.uk" site_id="64424#28929" lang="en" xmltv_id="">RTÉ RnaG</channel>
   <channel site="freeview.co.uk" site_id="64257#8460" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
   <channel site="freeview.co.uk" site_id="64257#16112" lang="en" xmltv_id="5Action.uk@SD">5ACTION</channel>
   <channel site="freeview.co.uk" site_id="64257#20256" lang="en" xmltv_id="5SELECT.uk@SD">5SELECT</channel>
@@ -162,6 +84,74 @@
   <channel site="freeview.co.uk" site_id="64352#4175" lang="en" xmltv_id="BBCOne.uk@YorkshireLincolnshire">BBC ONE Yk&amp;Li</channel>
   <channel site="freeview.co.uk" site_id="64352#17551" lang="en" xmltv_id="BBCOne.uk@YorkshireLincolnshireHD">BBC ONE Yk&amp;LHD</channel>
   <channel site="freeview.co.uk" site_id="64257#4736" lang="en" xmltv_id="BBCParliament.uk@SD">BBC Parliament</channel>
+  <channel site="freeview.co.uk" site_id="64257#6720" lang="en" xmltv_id="BBCRadio1.uk">BBC Radio 1</channel>
+  <channel site="freeview.co.uk" site_id="64392#6780" lang="en" xmltv_id="BBCRadio1.uk">BBC Radio 1</channel>
+  <channel site="freeview.co.uk" site_id="64257#5888" lang="en" xmltv_id="BBCRadio1Extra.uk">BBC R1X</channel>
+  <channel site="freeview.co.uk" site_id="64392#5948" lang="en" xmltv_id="BBCRadio1Extra.uk">BBC R1X</channel>
+  <channel site="freeview.co.uk" site_id="64257#6784" lang="en" xmltv_id="BBCRadio2.uk">BBC Radio 2</channel>
+  <channel site="freeview.co.uk" site_id="64392#6844" lang="en" xmltv_id="BBCRadio2.uk">BBC Radio 2</channel>
+  <channel site="freeview.co.uk" site_id="64257#6848" lang="en" xmltv_id="BBCRadio3.uk">BBC Radio 3</channel>
+  <channel site="freeview.co.uk" site_id="64392#6908" lang="en" xmltv_id="BBCRadio3.uk">BBC Radio 3</channel>
+  <channel site="freeview.co.uk" site_id="64257#6912" lang="en" xmltv_id="BBCRadio4.uk">BBC Radio 4</channel>
+  <channel site="freeview.co.uk" site_id="64392#6972" lang="en" xmltv_id="BBCRadio4.uk">BBC Radio 4</channel>
+  <channel site="freeview.co.uk" site_id="64257#5824" lang="en" xmltv_id="BBCRadio4Extra.uk">BBC Radio 4 Ex</channel>
+  <channel site="freeview.co.uk" site_id="64392#5884" lang="en" xmltv_id="BBCRadio4Extra.uk">BBC Radio 4 Ex</channel>
+  <channel site="freeview.co.uk" site_id="64257#5632" lang="en" xmltv_id="BBCRadio5Live.uk">BBC R5L</channel>
+  <channel site="freeview.co.uk" site_id="64392#5692" lang="en" xmltv_id="BBCRadio5Live.uk">BBC R5L</channel>
+  <channel site="freeview.co.uk" site_id="64257#5696" lang="en" xmltv_id="BBCRadio5SportExtra.uk">BBC 5SX</channel>
+  <channel site="freeview.co.uk" site_id="64392#5756" lang="en" xmltv_id="BBCRadio5SportExtra.uk">BBC 5SX</channel>
+  <channel site="freeview.co.uk" site_id="64257#5760" lang="en" xmltv_id="BBCRadio6Music.uk">BBC 6 Music</channel>
+  <channel site="freeview.co.uk" site_id="64392#5820" lang="en" xmltv_id="BBCRadio6Music.uk">BBC 6 Music</channel>
+  <channel site="freeview.co.uk" site_id="64257#5952" lang="en" xmltv_id="BBCRadioAsianNetwork.uk">BBC Asian Net.</channel>
+  <channel site="freeview.co.uk" site_id="64392#6012" lang="en" xmltv_id="BBCRadioAsianNetwork.uk">BBC Asian Net.</channel>
+  <channel site="freeview.co.uk" site_id="64257#6275" lang="en" xmltv_id="BBCRadioBerkshire.uk">BBC Berkshire</channel>
+  <channel site="freeview.co.uk" site_id="64320#6145" lang="en" xmltv_id="BBCRadioBristol.uk">BBC Bristol</channel>
+  <channel site="freeview.co.uk" site_id="64300#6285" lang="en" xmltv_id="BBCRadioCambridge.uk">BBC Cambridge</channel>
+  <channel site="freeview.co.uk" site_id="64328#6146" lang="en" xmltv_id="BBCRadioCornwall.uk">BBC Cornwall</channel>
+  <channel site="freeview.co.uk" site_id="64368#6217" lang="en" xmltv_id="BBCRadioCumbria.uk">BBC Cumbria</channel>
+  <channel site="freeview.co.uk" site_id="64336#6405" lang="en" xmltv_id="BBCRadioCWR.uk">BBC CWR</channel>
+  <channel site="freeview.co.uk" site_id="64416#6590" lang="en" xmltv_id="BBCRadioCymru2.uk">BBC Radio Cymru 2</channel>
+  <channel site="freeview.co.uk" site_id="64416#6526" lang="en" xmltv_id="BBCRadioCymru.uk">BBC Radio Cymru</channel>
+  <channel site="freeview.co.uk" site_id="64336#6214" lang="en" xmltv_id="BBCRadioDerby.uk">BBC Derby</channel>
+  <channel site="freeview.co.uk" site_id="64328#6210" lang="en" xmltv_id="BBCRadioDevon.uk">BBC Devon</channel>
+  <channel site="freeview.co.uk" site_id="64257#6279" lang="en" xmltv_id="BBCRadioEssex.uk">BBC Essex</channel>
+  <channel site="freeview.co.uk" site_id="64424#6397" lang="en" xmltv_id="BBCRadioFoyle.uk">BBC Radio Foyle</channel>
+  <channel site="freeview.co.uk" site_id="64297#6209" lang="en" xmltv_id="BBCRadioGloucestershire.uk">BBC Gloucestershire</channel>
+  <channel site="freeview.co.uk" site_id="64334#6158" lang="en" xmltv_id="BBCRadioGuernsey.uk">BBC Guernsey</channel>
+  <channel site="freeview.co.uk" site_id="64336#6277" lang="en" xmltv_id="BBCRadioHerefordWorcester.uk">BBC H&amp;W</channel>
+  <channel site="freeview.co.uk" site_id="64352#6223" lang="en" xmltv_id="BBCRadioHumberside.uk">BBC Humberside</channel>
+  <channel site="freeview.co.uk" site_id="64334#6222" lang="en" xmltv_id="BBCRadioJersey.uk">BBC Jersey</channel>
+  <channel site="freeview.co.uk" site_id="64269#6156" lang="en" xmltv_id="BBCRadioKent.uk">BBC Kent</channel>
+  <channel site="freeview.co.uk" site_id="64376#6216" lang="en" xmltv_id="BBCRadioLancashire.uk">BBC Lancashire</channel>
+  <channel site="freeview.co.uk" site_id="64357#6154" lang="en" xmltv_id="BBCRadioLeeds.uk">BBC Leeds</channel>
+  <channel site="freeview.co.uk" site_id="64342#6278" lang="en" xmltv_id="BBCRadioLeicester.uk">BBC Leicester</channel>
+  <channel site="freeview.co.uk" site_id="64342#6159" lang="en" xmltv_id="BBCRadioLincolnshire.uk">BBC Lincolnshire</channel>
+  <channel site="freeview.co.uk" site_id="64257#6148" lang="en" xmltv_id="BBCRadioLondon.uk">BBC Radio London</channel>
+  <channel site="freeview.co.uk" site_id="64376#6152" lang="en" xmltv_id="BBCRadioManchester.uk">BBC Manchester</channel>
+  <channel site="freeview.co.uk" site_id="64376#6280" lang="en" xmltv_id="BBCRadioMerseyside.uk">BBC Merseyside</channel>
+  <channel site="freeview.co.uk" site_id="64368#6153" lang="en" xmltv_id="BBCRadioNewcastle.uk">BBC Newcastle</channel>
+  <channel site="freeview.co.uk" site_id="64392#6268" lang="en" xmltv_id="BBCRadionGaidheal.uk">BBC R n Gaidheal</channel>
+  <channel site="freeview.co.uk" site_id="64300#6151" lang="en" xmltv_id="BBCRadioNorfolk.uk">BBC Norfolk</channel>
+  <channel site="freeview.co.uk" site_id="64300#6221" lang="en" xmltv_id="BBCRadioNorthampton.uk">BBC Northampton</channel>
+  <channel site="freeview.co.uk" site_id="64342#6150" lang="en" xmltv_id="BBCRadioNottingham.uk">BBC Nottingham</channel>
+  <channel site="freeview.co.uk" site_id="64297#6155" lang="en" xmltv_id="BBCRadioOxford.uk">BBC Oxford</channel>
+  <channel site="freeview.co.uk" site_id="64392#6204" lang="en" xmltv_id="BBCRadioScotland.uk">BBC R Scotland</channel>
+  <channel site="freeview.co.uk" site_id="64352#6218" lang="en" xmltv_id="BBCRadioSheffield.uk">BBC Sheffield</channel>
+  <channel site="freeview.co.uk" site_id="64336#6341" lang="en" xmltv_id="BBCRadioShropshire.uk">BBC Shropshire</channel>
+  <channel site="freeview.co.uk" site_id="64265#6147" lang="en" xmltv_id="BBCRadioSolent.uk">BBC Solent</channel>
+  <channel site="freeview.co.uk" site_id="64265#6211" lang="en" xmltv_id="BBCRadioSolentDorset.uk">BBC Solent Dorset</channel>
+  <channel site="freeview.co.uk" site_id="64320#6337" lang="en" xmltv_id="BBCRadioSomerset.uk">BBC Somerset</channel>
+  <channel site="freeview.co.uk" site_id="64336#6213" lang="en" xmltv_id="BBCRadioStoke.uk">BBC Stoke</channel>
+  <channel site="freeview.co.uk" site_id="64304#6215" lang="en" xmltv_id="BBCRadioSuffolk.uk">BBC Suffolk</channel>
+  <channel site="freeview.co.uk" site_id="64257#6284" lang="en" xmltv_id="BBCRadioSurrey.uk">BBC Surrey</channel>
+  <channel site="freeview.co.uk" site_id="64265#6220" lang="en" xmltv_id="BBCRadioSussex.uk">BBC Sussex</channel>
+  <channel site="freeview.co.uk" site_id="64368#6281" lang="en" xmltv_id="BBCRadioTees.uk">BBC Tees</channel>
+  <channel site="freeview.co.uk" site_id="64257#6157" lang="en" xmltv_id="BBCRadioThreeCounties.uk">BBC Three Counties</channel>
+  <channel site="freeview.co.uk" site_id="64424#6333" lang="en" xmltv_id="BBCRadioUlster.uk">BBC Radio Ulster</channel>
+  <channel site="freeview.co.uk" site_id="64416#6462" lang="en" xmltv_id="BBCRadioWales.uk">BBC Radio Wales</channel>
+  <channel site="freeview.co.uk" site_id="64336#6149" lang="en" xmltv_id="BBCRadioWestMidlands.uk">BBC WM</channel>
+  <channel site="freeview.co.uk" site_id="64265#6273" lang="en" xmltv_id="BBCRadioWiltshire.uk">BBC Wiltshire</channel>
+  <channel site="freeview.co.uk" site_id="64357#6282" lang="en" xmltv_id="BBCRadioYork.uk">BBC York</channel>
   <channel site="freeview.co.uk" site_id="64257#7168" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC RB 1</channel>
   <channel site="freeview.co.uk" site_id="64392#17212" lang="en" xmltv_id="BBCScotland.uk@HD">BBC Scotland HD</channel>
   <channel site="freeview.co.uk" site_id="64392#4924" lang="en" xmltv_id="BBCScotland.uk@SD">BBC Scotland</channel>
@@ -173,8 +163,11 @@
   <channel site="freeview.co.uk" site_id="64424#17533" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC TWO NI HD</channel>
   <channel site="freeview.co.uk" site_id="64416#4286" lang="en" xmltv_id="BBCTwo.uk@Wales">BBC TWO Wales</channel>
   <channel site="freeview.co.uk" site_id="64416#17534" lang="en" xmltv_id="BBCTwo.uk@WalesHD">BBC 2 Wales HD</channel>
+  <channel site="freeview.co.uk" site_id="64257#6016" lang="en" xmltv_id="BBCWorldService.uk">BBC World Sv.</channel>
+  <channel site="freeview.co.uk" site_id="64392#6076" lang="en" xmltv_id="BBCWorldService.uk">BBC World Sv.</channel>
   <channel site="freeview.co.uk" site_id="64257#14388" lang="en" xmltv_id="Blaze.uk@Plus1">Blaze+1</channel>
   <channel site="freeview.co.uk" site_id="64257#14384" lang="en" xmltv_id="Blaze.uk@SD">Blaze</channel>
+  <channel site="freeview.co.uk" site_id="64257#22688" lang="en" xmltv_id="CapitalRadio.uk">Capital</channel>
   <channel site="freeview.co.uk" site_id="64257#18112" lang="en" xmltv_id="CBBC.uk@HD">CBBC HD</channel>
   <channel site="freeview.co.uk" site_id="64392#18172" lang="en" xmltv_id="CBBC.uk@HD">CBBC HD</channel>
   <channel site="freeview.co.uk" site_id="64416#18174" lang="en" xmltv_id="CBBC.uk@HD">CBBC HD</channel>
@@ -188,6 +181,7 @@
   <channel site="freeview.co.uk" site_id="64257#17728" lang="en" xmltv_id="Channel5.uk@HD">5 HD</channel>
   <channel site="freeview.co.uk" site_id="64257#13024" lang="en" xmltv_id="Channel5.uk@Plus1">5 +1</channel>
   <channel site="freeview.co.uk" site_id="64257#8500" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
+  <channel site="freeview.co.uk" site_id="64257#22848" lang="en" xmltv_id="ClassicFM.uk">Classic FM</channel>
   <channel site="freeview.co.uk" site_id="64257#27680" lang="en" xmltv_id="DMAX.uk@UK">DMAX</channel>
   <channel site="freeview.co.uk" site_id="64257#8458" lang="en" xmltv_id="E4.uk@Plus1">E4+1</channel>
   <channel site="freeview.co.uk" site_id="64416#14400" lang="en" xmltv_id="E4.uk@Plus1">E4+1</channel>
@@ -205,6 +199,7 @@
   <channel site="freeview.co.uk" site_id="64257#15584" lang="en" xmltv_id="GREATmystery.uk@SD">Great! Movies</channel>
   <channel site="freeview.co.uk" site_id="64257#27296" lang="en" xmltv_id="GREATromance.uk@UK">Great! Romance</channel>
   <channel site="freeview.co.uk" site_id="64257#27168" lang="en" xmltv_id="GREATtv.uk@SD">Great! TV</channel>
+  <channel site="freeview.co.uk" site_id="64257#22656" lang="en" xmltv_id="HeartRadio.uk">Heart</channel>
   <channel site="freeview.co.uk" site_id="64257#27840" lang="en" xmltv_id="HobbyMaker.uk@SD">HobbyMaker</channel>
   <channel site="freeview.co.uk" site_id="64257#20032" lang="en" xmltv_id="HorrorXtra.uk@SD">LEGEND XTRA</channel>
   <channel site="freeview.co.uk" site_id="64257#25920" lang="en" xmltv_id="IdealWorldTV.uk@SD">Ideal World</channel>
@@ -256,6 +251,7 @@
   <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us@SD">Ketchup TV</channel>
   <channel site="freeview.co.uk" site_id="64270#32870" lang="en" xmltv_id="KMTV.uk@SD">KMTV</channel>
   <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk@SD">Latest TV</channel>
+  <channel site="freeview.co.uk" site_id="64257#22880" lang="en" xmltv_id="LBC.uk">LBC</channel>
   <channel site="freeview.co.uk" site_id="64257#14480" lang="en" xmltv_id="Legend.uk@SD">LEGEND</channel>
   <channel site="freeview.co.uk" site_id="64257#32842" lang="en" xmltv_id="LondonLive.uk@SD">London TV</channel>
   <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk@HD">MBC</channel>
@@ -265,6 +261,7 @@
   <channel site="freeview.co.uk" site_id="64257#27968" lang="en" xmltv_id="PBSAmerica.uk@SD">PBS America</channel>
   <channel site="freeview.co.uk" site_id="64257#16272" lang="en" xmltv_id="Pop.uk@SD">POP</channel>
   <channel site="freeview.co.uk" site_id="64257#27424" lang="en" xmltv_id="PopUp.uk@SD">POP UP</channel>
+  <channel site="freeview.co.uk" site_id="64257#28160" lang="en" xmltv_id="PremierRadio.uk">Premier Radio</channel>
   <channel site="freeview.co.uk" site_id="64257#34752" lang="en" xmltv_id="Quest.uk@Plus1">QUEST+1</channel>
   <channel site="freeview.co.uk" site_id="64257#27328" lang="en" xmltv_id="Quest.uk@SD">QUEST</channel>
   <channel site="freeview.co.uk" site_id="64257#23744" lang="en" xmltv_id="QuestRed.uk@SD">Quest Red</channel>
@@ -272,13 +269,16 @@
   <channel site="freeview.co.uk" site_id="64257#13120" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
   <channel site="freeview.co.uk" site_id="64257#23712" lang="en" xmltv_id="Really.uk@SD">Really</channel>
   <channel site="freeview.co.uk" site_id="64257#16248" lang="en" xmltv_id="RevelationTV.uk@SD">Revelation TV</channel>
+  <channel site="freeview.co.uk" site_id="64257#22624" lang="en" xmltv_id="RNIBRadio.uk">RNIB Connect</channel>
   <channel site="freeview.co.uk" site_id="64424#28801" lang="en" xmltv_id="RTE2.ie@SD">RTÉ Two</channel>
   <channel site="freeview.co.uk" site_id="64424#28737" lang="en" xmltv_id="RTEOne.ie@SD">RTÉ One</channel>
+  <channel site="freeview.co.uk" site_id="64424#28929" lang="en" xmltv_id="RTERnaG.ie">RTÉ RnaG</channel>
   <channel site="freeview.co.uk" site_id="64416#17792" lang="en" xmltv_id="S4C.uk@HD">S4C HD</channel>
   <channel site="freeview.co.uk" site_id="64416#8456" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
   <channel site="freeview.co.uk" site_id="64257#22144" lang="en" xmltv_id="SkyArts.uk@SD">Sky Arts</channel>
   <channel site="freeview.co.uk" site_id="64257#22208" lang="en" xmltv_id="SkyMix.uk@SD">Sky Mix</channel>
   <channel site="freeview.co.uk" site_id="64257#22080" lang="en" xmltv_id="SkyNews.uk@SD">Sky News</channel>
+  <channel site="freeview.co.uk" site_id="64257#26368" lang="en" xmltv_id="SmoothRadio.uk">Smooth Radio</channel>
   <channel site="freeview.co.uk" site_id="64400#17856" lang="en" xmltv_id="STV.uk@HD">STV HD</channel>
   <channel site="freeview.co.uk" site_id="64400#8373" lang="en" xmltv_id="STVCentral.uk@Plus1">STV+1</channel>
   <channel site="freeview.co.uk" site_id="64400#8273" lang="en" xmltv_id="STVCentral.uk@SD">STV</channel>
