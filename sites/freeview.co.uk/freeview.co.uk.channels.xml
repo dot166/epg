@@ -92,19 +92,8 @@
   <channel site="freeview.co.uk" site_id="64376#6152" lang="en" xmltv_id="">BBC Manchester</channel>
   <channel site="freeview.co.uk" site_id="64376#6216" lang="en" xmltv_id="">BBC Lancashire</channel>
   <channel site="freeview.co.uk" site_id="64376#6280" lang="en" xmltv_id="">BBC Merseyside</channel>
-  <channel site="freeview.co.uk" site_id="64392#5692" lang="en" xmltv_id="">BBC R5L</channel>
-  <channel site="freeview.co.uk" site_id="64392#5756" lang="en" xmltv_id="">BBC 5SX</channel>
-  <channel site="freeview.co.uk" site_id="64392#5820" lang="en" xmltv_id="">BBC 6 Music</channel>
-  <channel site="freeview.co.uk" site_id="64392#5884" lang="en" xmltv_id="">BBC Radio 4 Ex</channel>
-  <channel site="freeview.co.uk" site_id="64392#5948" lang="en" xmltv_id="">BBC R1X</channel>
-  <channel site="freeview.co.uk" site_id="64392#6012" lang="en" xmltv_id="">BBC Asian Net.</channel>
-  <channel site="freeview.co.uk" site_id="64392#6076" lang="en" xmltv_id="">BBC World Sv.</channel>
   <channel site="freeview.co.uk" site_id="64392#6204" lang="en" xmltv_id="">BBC R Scotland</channel>
   <channel site="freeview.co.uk" site_id="64392#6268" lang="en" xmltv_id="">BBC R n Gaidheal</channel>
-  <channel site="freeview.co.uk" site_id="64392#6780" lang="en" xmltv_id="">BBC Radio 1</channel>
-  <channel site="freeview.co.uk" site_id="64392#6844" lang="en" xmltv_id="">BBC Radio 2</channel>
-  <channel site="freeview.co.uk" site_id="64392#6908" lang="en" xmltv_id="">BBC Radio 3</channel>
-  <channel site="freeview.co.uk" site_id="64392#6972" lang="en" xmltv_id="">BBC Radio 4</channel>
   <channel site="freeview.co.uk" site_id="64416#6462" lang="en" xmltv_id="">BBC Radio Wales</channel>
   <channel site="freeview.co.uk" site_id="64416#6526" lang="en" xmltv_id="">BBC Radio Cymru</channel>
   <channel site="freeview.co.uk" site_id="64416#6590" lang="en" xmltv_id="">BBC Radio Cymru 2</channel>
@@ -128,9 +117,7 @@
   <channel site="freeview.co.uk" site_id="64334#4174" lang="en" xmltv_id="BBCOne.uk@ChannelIslands">BBC ONE CI</channel>
   <channel site="freeview.co.uk" site_id="64334#17550" lang="en" xmltv_id="BBCOne.uk@ChannelIslandsHD">BBC ONE CI HD</channel>
   <channel site="freeview.co.uk" site_id="64300#4173" lang="en" xmltv_id="BBCOne.uk@East">BBC ONE East</channel>
-  <channel site="freeview.co.uk" site_id="64304#4167" lang="en" xmltv_id="BBCOne.uk@East">BBC ONE East</channel>
   <channel site="freeview.co.uk" site_id="64300#17549" lang="en" xmltv_id="BBCOne.uk@EastHD">BBC ONE EastHD</channel>
-  <channel site="freeview.co.uk" site_id="64304#17543" lang="en" xmltv_id="BBCOne.uk@EastHD">BBC ONE EastHD</channel>
   <channel site="freeview.co.uk" site_id="64342#4166" lang="en" xmltv_id="BBCOne.uk@EastMidlands">BBC ONE E Mid</channel>
   <channel site="freeview.co.uk" site_id="64344#17542" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC ONE EMidHD</channel>
   <channel site="freeview.co.uk" site_id="64257#4164" lang="en" xmltv_id="BBCOne.uk@London">BBC ONE Lon</channel>
@@ -144,11 +131,9 @@
   <channel site="freeview.co.uk" site_id="64392#4220" lang="en" xmltv_id="BBCOne.uk@Scotland">BBC ONE Scot</channel>
   <channel site="freeview.co.uk" site_id="64392#17596" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC 1 Scot HD</channel>
   <channel site="freeview.co.uk" site_id="64265#4163" lang="en" xmltv_id="BBCOne.uk@South">BBC ONE South</channel>
-  <channel site="freeview.co.uk" site_id="64297#4171" lang="en" xmltv_id="BBCOne.uk@South">BBC ONE South</channel>
   <channel site="freeview.co.uk" site_id="64269#4172" lang="en" xmltv_id="BBCOne.uk@SouthEast">BBC ONE S East</channel>
   <channel site="freeview.co.uk" site_id="64280#17548" lang="en" xmltv_id="BBCOne.uk@SouthEastHD">BBC ONE SE HD</channel>
   <channel site="freeview.co.uk" site_id="64272#17539" lang="en" xmltv_id="BBCOne.uk@SouthHD">BBC ONE Sth HD</channel>
-  <channel site="freeview.co.uk" site_id="64297#17547" lang="en" xmltv_id="BBCOne.uk@SouthHD">BBC ONE Sth HD</channel>
   <channel site="freeview.co.uk" site_id="64328#4162" lang="en" xmltv_id="BBCOne.uk@SouthWest">BBC ONE S West</channel>
   <channel site="freeview.co.uk" site_id="64328#17538" lang="en" xmltv_id="BBCOne.uk@SouthWestHD">BBC ONE SW HD</channel>
   <channel site="freeview.co.uk" site_id="64416#4222" lang="en" xmltv_id="BBCOne.uk@Wales">BBC ONE Wales</channel>
@@ -176,8 +161,6 @@
   <channel site="freeview.co.uk" site_id="64257#14388" lang="en" xmltv_id="Blaze.uk@Plus1">Blaze+1</channel>
   <channel site="freeview.co.uk" site_id="64257#14384" lang="en" xmltv_id="Blaze.uk@SD">Blaze</channel>
   <channel site="freeview.co.uk" site_id="64257#18112" lang="en" xmltv_id="CBBC.uk@HD">CBBC HD</channel>
-  <channel site="freeview.co.uk" site_id="64392#18172" lang="en" xmltv_id="CBBC.uk@HD">CBBC HD</channel>
-  <channel site="freeview.co.uk" site_id="64416#18174" lang="en" xmltv_id="CBBC.uk@HD">CBBC HD</channel>
   <channel site="freeview.co.uk" site_id="64257#4608" lang="en" xmltv_id="CBBC.uk@SD">CBBC</channel>
   <channel site="freeview.co.uk" site_id="64257#18176" lang="en" xmltv_id="CBeebies.uk@HD">CBeebies HD</channel>
   <channel site="freeview.co.uk" site_id="64257#4672" lang="en" xmltv_id="CBeebies.uk@SD">CBeebies</channel>
@@ -209,14 +192,12 @@
   <channel site="freeview.co.uk" site_id="64257#20032" lang="en" xmltv_id="HorrorXtra.uk@SD">LEGEND XTRA</channel>
   <channel site="freeview.co.uk" site_id="64257#25920" lang="en" xmltv_id="IdealWorldTV.uk@SD">Ideal World</channel>
   <channel site="freeview.co.uk" site_id="64304#8257" lang="en" xmltv_id="ITV1.uk@Anglia">ITV1</channel>
-  <channel site="freeview.co.uk" site_id="64312#8258" lang="en" xmltv_id="ITV1.uk@Anglia">ITV1</channel>
   <channel site="freeview.co.uk" site_id="64304#8357" lang="en" xmltv_id="ITV1.uk@AngliaPlus1">ITV1+1</channel>
   <channel site="freeview.co.uk" site_id="64384#8260" lang="en" xmltv_id="ITV1.uk@BorderEngland">ITV1 Border England</channel>
   <channel site="freeview.co.uk" site_id="64384#8360" lang="en" xmltv_id="ITV1.uk@BorderPlus1">ITV1+1</channel>
   <channel site="freeview.co.uk" site_id="64392#8259" lang="en" xmltv_id="ITV1.uk@BorderScotland">ITV1 Border Scotland</channel>
   <channel site="freeview.co.uk" site_id="64392#17659" lang="en" xmltv_id="ITV1.uk@BorderScotlandHD">ITV1 HD</channel>
   <channel site="freeview.co.uk" site_id="64336#8262" lang="en" xmltv_id="ITV1.uk@Central">ITV1</channel>
-  <channel site="freeview.co.uk" site_id="64344#8264" lang="en" xmltv_id="ITV1.uk@Central">ITV1</channel>
   <channel site="freeview.co.uk" site_id="64336#17605" lang="en" xmltv_id="ITV1.uk@CentralHD">ITV1 HD</channel>
   <channel site="freeview.co.uk" site_id="64336#8362" lang="en" xmltv_id="ITV1.uk@CentralPlus1">ITV1+1</channel>
   <channel site="freeview.co.uk" site_id="64334#8265" lang="en" xmltv_id="ITV1.uk@ChannelTelevision">ITV1</channel>
@@ -227,8 +208,6 @@
   <channel site="freeview.co.uk" site_id="64257#17604" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
   <channel site="freeview.co.uk" site_id="64257#8361" lang="en" xmltv_id="ITV1.uk@LondonPlus1">ITV1+1</channel>
   <channel site="freeview.co.uk" site_id="64272#8270" lang="en" xmltv_id="ITV1.uk@Meridian">ITV1</channel>
-  <channel site="freeview.co.uk" site_id="64280#8272" lang="en" xmltv_id="ITV1.uk@Meridian">ITV1</channel>
-  <channel site="freeview.co.uk" site_id="64289#8271" lang="en" xmltv_id="ITV1.uk@Meridian">ITV1</channel>
   <channel site="freeview.co.uk" site_id="64272#17603" lang="en" xmltv_id="ITV1.uk@MeridianHD">ITV1 HD</channel>
   <channel site="freeview.co.uk" site_id="64272#8370" lang="en" xmltv_id="ITV1.uk@MeridianPlus1">ITV1+1</channel>
   <channel site="freeview.co.uk" site_id="64368#8274" lang="en" xmltv_id="ITV1.uk@TyneTees">ITV1</channel>
@@ -237,12 +216,9 @@
   <channel site="freeview.co.uk" site_id="64416#17663" lang="en" xmltv_id="ITV1.uk@WalesHD">ITV1 Wales HD</channel>
   <channel site="freeview.co.uk" site_id="64416#8369" lang="en" xmltv_id="ITV1.uk@WalesPlus1">ITV1+1</channel>
   <channel site="freeview.co.uk" site_id="64320#8268" lang="en" xmltv_id="ITV1.uk@WestCountry">ITV1</channel>
-  <channel site="freeview.co.uk" site_id="64328#8277" lang="en" xmltv_id="ITV1.uk@WestCountry">ITV1</channel>
   <channel site="freeview.co.uk" site_id="64320#17662" lang="en" xmltv_id="ITV1.uk@WestCountryHD">ITV1 HD</channel>
   <channel site="freeview.co.uk" site_id="64320#8368" lang="en" xmltv_id="ITV1.uk@WestCountryPlus1">ITV1+1</channel>
-  <channel site="freeview.co.uk" site_id="64328#8377" lang="en" xmltv_id="ITV1.uk@WestCountryPlus1">ITV1+1</channel>
   <channel site="freeview.co.uk" site_id="64350#8283" lang="en" xmltv_id="ITV1.uk@Yorkshire">ITV1</channel>
-  <channel site="freeview.co.uk" site_id="64360#8281" lang="en" xmltv_id="ITV1.uk@Yorkshire">ITV1</channel>
   <channel site="freeview.co.uk" site_id="64352#17609" lang="en" xmltv_id="ITV1.uk@YorkshireHD">ITV1 HD</channel>
   <channel site="freeview.co.uk" site_id="64350#8381" lang="en" xmltv_id="ITV1.uk@YorkshirePlus1">ITV1+1</channel>
   <channel site="freeview.co.uk" site_id="64257#15952" lang="en" xmltv_id="ITV2.uk@Plus1">ITV2+1</channel>

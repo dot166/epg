@@ -2,6 +2,8 @@ const axios = require('axios')
 const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
 const parseDuration = require('parse-duration').default
+const fs = require('fs')
+const path = require('path')
 
 dayjs.extend(utc)
 
@@ -38,6 +40,10 @@ module.exports = {
   async channels() {
     const startTimestamp = dayjs.utc().startOf('d').unix()
     let channels = []
+    const manualDuplicates = fs.readFileSync(path.resolve(__dirname, 'duplicateIDs'), 'utf8')
+    .split('\n')
+    .map(line => line.split('#')[0].trim())
+    .filter(line => line.length > 0)
     for (let networkId = 64257; networkId <= 64425; networkId++) { // loop through all valid networkIds starting from 64257 (Greater London) to 64425 (Belfast) to ensure we can get all the channels available on freeview
       console.log(networkId)
       const data = await axios
@@ -51,9 +57,23 @@ module.exports = {
         name: item.title
       })))
     }
-    const uniqueServiceIds = Array.from(new Set(channels.map(c => c.site_id.split('#')[1])))
-    return uniqueServiceIds.map(serviceId => {
-      return channels.find(c => c.site_id.split('#')[1] === serviceId)
+    // check if there are channels in the duplicate file that don't exist anymore
+    const currentChannelKeys = new Set(channels.map(c => {
+      return `${c.site_id.split('#')[1]}|${c.name.trim().toLowerCase()}`
+    }))
+    for (const duplicateKey of manualDuplicates) {
+      if (!currentChannelKeys.has(duplicateKey)) {
+        console.log(`'${duplicateKey}' cannot be found in channels, please remove it from the duplicateIDs file if it no longer exists`)
+      }
+    }
+    const uniquePairs = new Set(manualDuplicates)
+    return channels.filter(c => {
+      const compositeKey = `${c.site_id.split('#')[1]}|${c.name.trim().toLowerCase()}`
+      if (uniquePairs.has(compositeKey)) {
+        return false
+      }
+      uniquePairs.add(compositeKey)
+      return true
     })
   }
 }

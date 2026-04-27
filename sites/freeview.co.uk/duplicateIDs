@@ -1,0 +1,25 @@
+# edit this file to modify extra filters for duplicate channels that are not caught by the id+name check
+6780|bbc radio 1 # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+5948|bbc r1x # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+6844|bbc radio 2 # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+6908|bbc radio 3 # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+6972|bbc radio 4 # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+5692|bbc r5l # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+5756|bbc 5sx # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+5820|bbc 6 music # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+5884|bbc radio 4 ex # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+6012|bbc asian net. # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+6076|bbc world sv. # bbc radio has different IDs for scotland, as on freeview in scotland, some bbc radio channels go off air while bbc alba is on air because bbc alba needs the bandwith
+18172|cbbc hd # cbbc hd has a different ID for scotland, as on freeview, cbbc hd closes 2 hours earlier because bbc scotland hd needs the bandwith
+18174|cbbc hd # i dont know why cbbc hd in wales has a different ID, but the schedules are mostly the same so it is a duplicate, not a regional variant, also because only bbc one and two have regional variants
+8258|itv1 # itv anglia subregion, not supported by db
+8264|itv1 # itv central subregion, not supported by db
+8272|itv1 # itv meridian subregion, not supported by db
+8271|itv1 # itv meridian subregion, not supported by db
+8277|itv1 # itv westcountry subregion, not supported by db
+8377|itv1+1 # itv westcountry +1 subregion, not supported by db
+8281|itv1 # itv yorkshire subregion, not supported by db
+4167|bbc one east # subregion, not supported by db
+17543|bbc one easthd # subregion, not supported by db
+4171|bbc one south # subregion, not supported by db
+17547|bbc one sth hd # subregion, not supported by db
